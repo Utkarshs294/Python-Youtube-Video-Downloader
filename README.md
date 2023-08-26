@@ -10,7 +10,7 @@ The objective of this project is to download any type of video in a fast and eas
 
  Insights :-
 
-- With this project in python, I have successfully developed the youtube video downloader project using python.
+- I have successfully developed the youtube video downloader project using python.
 - I used the popular Tkinter library that used for rendering graphics.
 - I use the pytube library to download videos from youtube.
 - This provides users to download videos they need in their devices and watch them offline.

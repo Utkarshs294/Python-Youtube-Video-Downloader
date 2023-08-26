@@ -1,4 +1,4 @@
-# Python-Youtube-Video-Downloader
+# Python Youtube Video Downloader
 
 The objective of this project is to download any type of video in a fast and easy way from youtube in your device.
 
